@@ -1,13 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Hey there!! Welcome to my page
+author: Dineshkumar
+email: dineshkumarsrds1999@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+👉 Founder of InsightMonkeys and Inainthu Sei Maatram Kaann
+👉 learning DevOps tools and pipelines
+👉 Microsoft Learn Student 
+👉 member of Azure Developer Community 
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: dinesh_1866
+github_username:  Dinesh1866
 
 show_excerpts: true # set to false to remove excerpts on the homepage
